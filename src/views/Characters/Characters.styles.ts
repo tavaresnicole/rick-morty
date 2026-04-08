@@ -4,7 +4,7 @@ const alignPagination = "flex flex-col items-center gap-10";
 const paginationContainer = "flex items-center justify-center gap-6 mt-8 pb-6";
 const pagination = "flex flex-col";
 const alignEmpty =
-  "flex flex-col items-center min-h-screen bg-[var(--color-dark-blue)] pt-10 text-[var(--color-off-white)] text-xl gap-10";
+  "flex flex-col items-center min-h-screen bg-[var(--color-dark-blue)] pt-10 text-[var(--color-off-white)] text-xl gap-10 p-10 text-center";
 const paginationButton =
   "px-5 py-2 rounded-lg bg-green-600 text-white font-medium cursor" +
   "hover:bg-green-500 disabled:opacity-40 disabled:cursor-not-allowed transition-colors cursor-pointer";

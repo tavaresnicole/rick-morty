@@ -8,7 +8,7 @@ const alignTextCharacter = "flex gap-3";
 const styleInfoCharacter =
   "w-auto p-2 rounded-md bg-[var(--color-blue)] text-[var(--color-off-white)] border border-[var(--color-green)] opacity-60";
 const alignEmpty =
-  "flex flex-col items-center min-h-screen bg-[var(--color-dark-blue)] pt-10 text-[var(--color-off-white)] text-xl gap-10";
+  "flex flex-col items-center min-h-screen bg-[var(--color-dark-blue)] pt-10 text-[var(--color-off-white)] text-xl gap-10 p-10 text-center";
 
 export {
   alignContainer,
